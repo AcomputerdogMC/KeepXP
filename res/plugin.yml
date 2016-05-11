@@ -1,0 +1,10 @@
+name: KeepXP
+version: 0.0.2
+description: Keeps player XP on death
+author: acomputerdog
+main: net.acomputerdog.keepxp.PluginKeepXP
+
+perimssions:
+  keepxp.keep:
+    description: If true the player will keep XP on death
+    default: true
