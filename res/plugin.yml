@@ -1,5 +1,5 @@
 name: KeepXP
-version: 0.0.2
+version: 0.1.0
 description: Keeps player XP on death
 author: acomputerdog
 main: net.acomputerdog.keepxp.PluginKeepXP
