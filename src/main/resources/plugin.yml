@@ -3,6 +3,7 @@ version: ${version}
 description: Keeps player XP on death
 author: acomputerdog
 main: net.acomputerdog.keepxp.PluginKeepXP
+api-version: 1.13
 
 perimssions:
   keepxp.keep:
